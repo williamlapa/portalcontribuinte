@@ -1,0 +1,11 @@
+.btn-primary {
+    display: inline-block;
+    background-color: hsl(236, 76%, 49%);
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}
+
+.btn-primary:hover {
+    cursor: pointer;
+}
